@@ -1,1 +1,1 @@
-Checking the git reset functionality.
+Checking the git reset functionality Updated succesfully.
