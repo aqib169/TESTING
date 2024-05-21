@@ -1,2 +1,2 @@
 Checking the git reset functionality Updated succesfully.
-reset soft.
+checking the working of stash.
