@@ -1,2 +1,1 @@
-Checking the git reset functionality Updated succesfully.
-checking the working of stash.
+checking the working of stash
